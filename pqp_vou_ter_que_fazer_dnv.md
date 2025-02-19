@@ -1,4 +1,4 @@
-![alt text](<gato foteiro.png>)
+![](<gato foteiro.png>)
 **SELFIE COM OS MANOS**
 
 *tic tic*
