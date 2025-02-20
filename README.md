@@ -1,6 +1,6 @@
 # Docs do Git
 
-Resumo da documentação do Git
+O meeeeu resumo da documentação do Git
 escrita em aula.
 
 boa noite!
